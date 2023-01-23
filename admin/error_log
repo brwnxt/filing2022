@@ -1,0 +1,7 @@
+[02-Jul-2022 02:06:00 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/filingid/public_html/admin/config/koneksi.php on line 8
+[06-Jul-2022 03:43:35 UTC] PHP Warning:  Undefined array key "HTTPS" in /home/filingid/public_html/admin/config/koneksi.php on line 20
+[11-Jul-2022 03:30:40 UTC] PHP Warning:  Undefined array key "HTTPS" in /home/filingid/public_html/admin/config/koneksi.php on line 20
+[14-Jul-2022 04:30:22 UTC] PHP Warning:  Undefined array key "HTTPS" in /home/filingid/public_html/admin/config/koneksi.php on line 20
+[29-Sep-2022 06:41:02 UTC] PHP Warning:  Undefined array key "HTTPS" in /home/filingid/public_html/admin/config/koneksi.php on line 20
+[23-Nov-2022 04:20:58 UTC] PHP Warning:  Undefined array key "HTTPS" in /home/filingid/public_html/admin/config/koneksi.php on line 20
+[18-Jan-2023 05:47:12 UTC] PHP Warning:  Undefined array key "HTTPS" in /home/filingid/public_html/admin/config/koneksi.php on line 20
